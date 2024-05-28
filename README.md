@@ -14,12 +14,12 @@
 
 <h2>Objectives:</h2>
 
-- <b>Create a simple web app using only html and css:</b> 
-- <b>Have the app include some basic information about the product:</b>
-- <b>Have the app include an image of the software:</b>
-- <b>Develop the app with a video that demonstrates the product:</b>
-- <b>Have the app include an email submission form:</b>
-- <b>Include  a list of product features:</b>
+- <b>Create a simple web app using only html and css</b> 
+- <b>Have the app include some basic information about the product</b>
+- <b>Have the app include an image of the software</b>
+- <b>Develop the app with a video that demonstrates the product</b>
+- <b>Have the app include an email submission form</b>
+- <b>Include  a list of product features</b>
 
 
 
